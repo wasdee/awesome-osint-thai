@@ -18,6 +18,12 @@
 * [Garena](https://www.garena.co.th/) - Thailand 1st Gamming Distributor/Representative for online mobile gaming and PC e.g. LoL, RoV.
 * [Steam](https://store.steampowered.com/) - The Major PC gaming platform.
 
+## Mobile Operator
+
+*Mobile Operator in Thai*
+
+* [AIS](https://myais.ais.co.th/) - Thailand 1st mobile operator.
+
 # Contributing
 
 Feel free to update this list by create a pull request 🥰
