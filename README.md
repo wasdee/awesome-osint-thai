@@ -24,9 +24,22 @@
 
 * [AIS](https://myais.ais.co.th/) - Thailand 1st mobile operator.
 
+## Banking 
+
+* [SCB Easy](https://www.scbeasy.com/v1.4/site/presignon/index.asp) - The Siam Comercial Bank Personal Login Page
+
+## Population Data
+
+* Related to the whole poplation instead of individuals - an agreegate data
+
+* [Thai Open Data](https://data.go.th) - The Demographic of Thailand, Very Bad in Completeness, Uniform Format. Also, it provide [APIs](https://api.data.go.th)
+* [Bank Of Thailand](https://apiportal.bot.or.th/bot/public/) - The Economic Data from thee Bank of Thailand. __Recommenced__
+* [Official Statstics Registration Sytstems](http://stat.bora.dopa.go.th) - The Demographic of Thailand, separate by provinces.
+
+
 # Contributing
 
 Feel free to update this list by create a pull request 🥰
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me [@circleoncircles](https://twitter.com/vinta) on Twitter or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me [@circleoncircles](https://twitter.com/circleoncircles) on Twitter or open an issue on GitHub.
