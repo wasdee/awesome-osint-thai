@@ -37,6 +37,10 @@
 * [Bank Of Thailand](https://apiportal.bot.or.th/bot/public/) - The Economic Data from thee Bank of Thailand. __Recommenced__
 * [Official Statstics Registration Sytstems](http://stat.bora.dopa.go.th) - The Demographic of Thailand, separate by provinces.
 
+## Metropolis
+### Meaung, Udon Thani
+* [Live Stream](http://streaming.udoncity.go.th/index.php) - Live Stream for 20+ main street area. 
+
 
 # Contributing
 
