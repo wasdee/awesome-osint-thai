@@ -31,12 +31,18 @@
 
 ## Population Data
 
-* Related to the whole poplation instead of individuals - an agreegate data
+* Related to the whole poplation instead of individuals - an agreegate data *
 
 * [Thai Open Data](https://data.go.th) - The Demographic of Thailand, Very Bad in Completeness, Uniform Format. Also, it provide [APIs](https://api.data.go.th)
 * [Bank Of Thailand](https://apiportal.bot.or.th/bot/public/) - The Economic Data from thee Bank of Thailand. __Recommenced__
 * [Official Statstics Registration Sytstems](http://stat.bora.dopa.go.th) - The Demographic of Thailand, separate by provinces.
 
+## Others
+
+*  * 
+
+* [ศูนย์กลางข้อมูลให้ธุรกิจติดต่อราชการแบบเบ็ดเสร็จ](https://biz.govchannel.go.th/) - Central Government Request for Bussiness 
+* [ศูนย์กลางแลกเปลี่ยนข้อมูลภาครัฐ](https://gdx.dga.or.th/Account/Login?ReturnUrl=%2f) - Data Channel for Government Officials
 ## Metropolis
 ### Meaung, Udon Thani
 * [Live Stream](http://streaming.udoncity.go.th/index.php) - Live Stream for 20+ main street area. 
