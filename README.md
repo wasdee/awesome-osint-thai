@@ -24,6 +24,8 @@ Most of the data could be bought e.g.[dbd](https://medium.com/incubate-co-th/%E0
 
 ## Social Media
 * [FBI](https://github.com/xHak9x/fbi) - #facebook PII data dumper, no post dump #tobeeval
+* [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - the ultimate tools as the title said
+
 
 ## Mobile Operator
 
@@ -54,6 +56,10 @@ Most of the data could be bought e.g.[dbd](https://medium.com/incubate-co-th/%E0
 * [Live Stream](http://streaming.udoncity.go.th/index.php) - Live Stream for 20+ main street area. 
 * [BKK Traffic Cams](http://www.bmatraffic.com/index.aspx) - Very Low fps live stream of whole bkk traffic grid.
 
+## common-osint
+* [gOSINT](https://github.com/Nhoya/gOSINT) - cli written in go
+* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - International phone number OSINT
+* [TorBot](https://github.com/DedSecInside/TorBot) - TOR Network spider bot
 
 # Contributing
 
