@@ -60,6 +60,10 @@ Most of the data could be bought e.g.[dbd](https://medium.com/incubate-co-th/%E0
 * [gOSINT](https://github.com/Nhoya/gOSINT) - cli written in go
 * [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - International phone number OSINT
 * [TorBot](https://github.com/DedSecInside/TorBot) - TOR Network spider bot
+* [Photon](https://github.com/s0md3v/Photon) - fast Domain OSINT scraper
+* [Osintgram](https://github.com/Datalux/Osintgram) - instragram OSINT
+* [iKy](https://github.com/kennbroorg/iKy) - email based OSINT with futuristic interface
+* [sn0int](https://github.com/kpcyrd/sn0int) - OSINT in RUST with complex domain explorator
 
 # Contributing
 
