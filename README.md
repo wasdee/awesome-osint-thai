@@ -56,7 +56,7 @@ Most of the data could be bought e.g.[dbd](https://medium.com/incubate-co-th/%E0
 * [Live Stream](http://streaming.udoncity.go.th/index.php) - Live Stream for 20+ main street area. 
 * [BKK Traffic Cams](http://www.bmatraffic.com/index.aspx) - Very Low fps live stream of whole bkk traffic grid.
 
-## common-osint
+## well-maintained-osint
 * [gOSINT](https://github.com/Nhoya/gOSINT) - cli written in go
 * [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - International phone number OSINT
 * [TorBot](https://github.com/DedSecInside/TorBot) - TOR Network spider bot
@@ -64,6 +64,8 @@ Most of the data could be bought e.g.[dbd](https://medium.com/incubate-co-th/%E0
 * [Osintgram](https://github.com/Datalux/Osintgram) - instragram OSINT
 * [iKy](https://github.com/kennbroorg/iKy) - email based OSINT with futuristic interface
 * [sn0int](https://github.com/kpcyrd/sn0int) - OSINT in RUST with complex domain explorator
+* [spiderfoot](https://github.com/smicallef/spiderfoot) - big OSINT
+* [awesome-osint](https://github.com/jivoi/awesome-osint) - give a overview picture, many are not maintained.
 
 # Contributing
 
