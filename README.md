@@ -10,6 +10,7 @@ Most of the data could be bought e.g.[dbd](https://medium.com/incubate-co-th/%E0
 
 * [Department of Bussiness Development](http://datawarehouse.dbd.go.th/) - all companies financial stats includes those are not in the [SET](https://www.set.or.th/set/mainpage.do?language=en&country=US). 
 * [Creden](https://creden.co/creditscore/business/main.html) - DBD(Department of Bussiness Development) that could be quried using person name.
+* [opencorporates](https://opencorporates.com/) - API for DBD company data
 * [Department of Lands](http://dolwms.dol.go.th/tvwebp/) - Identify all land properties to buy.
 * [Family Name Check](http://www.khonthai.com/online/WCHECKLNAME/) - check if the family name is valid to create.
 * [Police Official Check](https://www.thaipolice.net/) - a given name/surname is a real police or not + get his rank and department.
