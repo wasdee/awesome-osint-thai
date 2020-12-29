@@ -15,6 +15,7 @@ Most of the data could be bought e.g.[dbd](https://medium.com/incubate-co-th/%E0
 * [Family Name Check](http://www.khonthai.com/online/WCHECKLNAME/) - check if the family name is valid to create.
 * [Police Official Check](https://www.thaipolice.net/) - a given name/surname is a real police or not + get his rank and department.
 * [Revenue Department API](https://zenateconnect.github.io/RevenueDepartmentService/) - obtain more info about a tax id/national id
+* [national-id-meaning](https://github.com/heypoom/national-id-meaning) - understand info behind national id numbering
 
 ## Gamming
 
