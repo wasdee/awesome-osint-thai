@@ -17,6 +17,12 @@ Most of the data could be bought e.g.[dbd](https://medium.com/incubate-co-th/%E0
 * [Revenue Department API](https://zenateconnect.github.io/RevenueDepartmentService/) - obtain more info about a tax id/national id
 * [national-id-meaning](https://github.com/heypoom/national-id-meaning) - understand info behind national id numbering
 
+## Leaked Data Source
+
+*Source of Boostraping Your public Dataset*
+
+* [raidforums](https://raidforums.com/) - Lot of Thai leaks feature here.
+
 ## Gamming
 
 *what do Thais play*
